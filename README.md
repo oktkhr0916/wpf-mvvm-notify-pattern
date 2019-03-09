@@ -1,3 +1,6 @@
 # wpf-mvvm-notify-pattern
 
-![](./images/60b961f7b46a365fc7d6793addb62aa4.png)
+
+
+![](./images/8a9b8f27b4b89030e5435b347b4efc28.png)
+application image
