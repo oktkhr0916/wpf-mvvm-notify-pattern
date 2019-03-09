@@ -1,0 +1,14 @@
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\bin\Release\PropertyChangeEventStrategy.exe.config
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\bin\Release\PropertyChangeEventStrategy.exe
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\bin\Release\PropertyChangeEventStrategy.pdb
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\MainWindow.g.cs
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\App.g.cs
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\PropertyChangeEventStrategy_MarkupCompile.cache
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\PropertyChangeEventStrategy_MarkupCompile.lref
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\MainWindow.baml
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\PropertyChangeEventStrategy.g.resources
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\PropertyChangeEventStrategy.Properties.Resources.resources
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\PropertyChangeEventStrategy.csproj.GenerateResource.cache
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\PropertyChangeEventStrategy.csproj.CoreCompileInputs.cache
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\PropertyChangeEventStrategy.exe
+C:\Users\oka-ta\Dropbox\Computer\Tutrial-Sample\C#\PropertyChangeEventStrategy\PropertyChangeEventStrategy\obj\Release\PropertyChangeEventStrategy.pdb

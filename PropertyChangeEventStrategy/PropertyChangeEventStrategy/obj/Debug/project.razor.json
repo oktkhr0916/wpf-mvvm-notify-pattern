@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\talla\\Dropbox\\Computer\\Tutrial-Sample\\C#\\PropertyChangeEventStrategy\\PropertyChangeEventStrategy\\PropertyChangeEventStrategy.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
